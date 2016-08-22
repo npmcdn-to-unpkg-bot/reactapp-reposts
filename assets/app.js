@@ -7,6 +7,6 @@ var TestClass = React.createClass({
     }
 });
 ReactDOM.render(
-    <TextClass text="main" />,
+    <TestClass text="main" />,
     document.getElementById('container')
 );
